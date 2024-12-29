@@ -26,7 +26,7 @@ We will meet each Tuesday at 12:30pm in Wu Ho Man Yuen Building (WMY) **504**. P
 Most of the code in this course will be distributed through the [Google CoLab](https://colab.research.google.com/) cloud computing environment to avoid the incompatibility and version control issues on your local individual computer. On the other hand, you can always download the Jupyter Notebook from CoLab and run it your own computer.
 
 - The **CoLab** files of this course can be found at [this folder](https://drive.google.com/drive/folders/1lYO4ni5B5AVkYZ3qVrVs2LoWxHProsxM?usp=sharing).
-- The **Google Sheet** to sign up for groups and group tasks can be found [here](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing).
+- The **Google Sheet** to sign up for groups and group tasks can be found [here](https://docs.google.com/spreadsheets/d/1ffRNlSFqki4vomz5UN0OseFNEoEXBY5kptS79wmgWs4/edit?usp=sharing).
 - The overleaf template for scribing the lecture notes of this course can be found [here](https://www.overleaf.com/read/gnsjbcmsfnhn#fcfc79).
 
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
