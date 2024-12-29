@@ -35,20 +35,19 @@ If you have any feedback on this course, please directly contact Philip at phili
 Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
 |Session|Date |Topic|Key Words|
 |:-------:|:-------------:|:----:|:-:|
-|1|1.09|AI/ML in a Nutshell|Course Intro, ML Models, Model Evaluations|
-|2|1.16|Intro to DL|DL Intro, Neural Nets, Computational Issues in DL|
-|3|1.23|Prediction and Traditional NLP|Prediction in Biz Research, Pre-processing| 
-|4|1.30|NLP (II): Traditional NLP|$N$-gram, NLP Performance Evaluations, Naïve Bayes|
-|5|2.06|NLP (III): Word2Vec|CBOW, Skip Gram|
-|6|2.20|NLP (IV): RNN|Glove, Language Model Evaluation, RNN|
-|7|2.27|NLP (V): Seq2Seq|LSTM, Seq2Seq, Attention Mechanism|
-|7.5|3.05|NLP (V.V): Transformer|The Bitter Lesson, Attention is All You Need| 
-|8|3.12|NLP (VI): Pre-training|Computational Tricks in DL, BERT, GPT|
-|9|3.19|NLP (VII): LLM|Emergent Abilities, Chain-of-Thought, In-context Learning, GenAI in Business Research|
-|10|3.26|CV (I): Image Classification|CNN, AlexNet, ResNet, ViT|
-|11|4.02|CV (II): Image Segmentation and Video Analysis|R-CNN, YOLO, 3D-CNN|
-|12|4.09|Unsupervised Learning (I): Clustering & Topic Modeling|GMM, EM Algorithm, LDA|
-|13|4.16|Unsupervised Learning (II): Diffusion Models|VAE, DDPM, LDM, DiT|
+|1|1.14|AI/ML in a Nutshell|Course Intro, ML Models, Model Evaluations|
+|2|1.21|Intro to DL|DL Intro, Neural Nets, Prediction in Biz Research|
+|3|2.04|LLM (I)|Transformer, Mamba| 
+|4|2.11|LLM (II)|Pre-training, BERT, GPT, Quantization|
+|5|2.18|LLM (III)|Post-training, Fine-tuning, RLHF, Inference|
+|6|2.25|LLM (IV)|Agentic AI, AI as Human Simulators|
+|7|3.04|LLM (IV.V)|Final Project Discussions, Applications in Business Research| 
+|8|3.11|Causal (I)|Causal Inference Intro|
+|9|3.18|Causal (II)|ML-Powered Causal Inference, Causal Trees and Forests|
+|10|3.25|Causal (III)|Double Machine Learning, Neyman Orthogonality|
+|11|4.01|Causal (IV)|RL, Off-Policy Evaluation|
+|12|4.08|Economics and Ethics of AI|Economic Impact, Fairness, Bias of AI|
+|13|4.15|Final Project Presentation|Discussions and Course Wrap-up|
 
 
 ## Important Dates
