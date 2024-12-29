@@ -56,17 +56,17 @@ All problem sets are due at 12:30pm right before class.
 
 |Date| Time|Event|Note|
 |:--:|:-:|:---:|:--:|
-|1.10| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing)|Each group has at most two students.|
-|1.12| 7:00pm-9:00pm|Python Tutorial|Given by Qiansiqi Hu, [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui)|
-|1.19| 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Qiansiqi Hu, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1Yg5q5v2CKNwPuaNAieg7ENDdA8Tn3wux)|
-|3.05|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
-|3.12| 12:30pm|Final Project Proposal|1-page maximum|
+|1.15| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/1ffRNlSFqki4vomz5UN0OseFNEoEXBY5kptS79wmgWs4/edit?usp=sharing)|Each group has at most two students.|
+|1.17| 7:00pm-9:00pm|Python Tutorial|Given by Xinyu Li, [Python Tutorial CoLab](https://colab.research.google.com/drive/1hzHa-BAtrsQr_JejMwXHmqFRD9Zgf4rA?usp=sharing)|
+|1.24| 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) and [DOT HPC Server](https://github.com/QiansiqiHu/DOT-server) Tutorial|Given by Xinyu Li, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1JDezUDZoIEblFYGDVoWwfJHmH1-FbURa?usp=sharing)|
+|3.04|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
+|3.11| 12:30pm|Final Project Proposal|1-page maximum|
 |4.30| 11:59pm|Scribed Lecture Notes|Overleaf link|
-|5.12|11:59pm|Project Paper, Slides, and Code|Paper page limit: 10| 
+|5.11|11:59pm|Project Paper, Slides, and Code|Paper page limit: 10| 
 
 
 ## Useful Resources
-Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/AI-PhD-Syllabus-S2024.pdf).
+Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/AI-PhD-Syllabus-S2025.pdf).
 
 - **Books**: [ESL](https://hastie.su.domains/ElemStatLearn/), [Deep Learning](https://www.deeplearningbook.org/), [Dive into Deep Learning](https://d2l.ai/), [ML Fairness](https://fairmlbook.org/), [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
 - **Courses**: [ML Intro by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction), [DL Intro by Andrew Ng](https://www.coursera.org/specializations/deep-learning), [NLP (CS224N) by Chris Manning](https://web.stanford.edu/class/cs224n/), [CV (CS231N) by Fei-Fei Li](http://cs231n.stanford.edu/), [Deep Unsupervised Learning by Pieter Abbeel](https://sites.google.com/view/berkeley-cs294-158-sp24/home), [DLR by Sergey Levine](https://rail.eecs.berkeley.edu/deeprlcourse/), [DL Theory by Matus Telgarsky](https://mjt.cs.illinois.edu/courses/dlt-f22/), [LLM by Danqi Chen](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), [Generative AI by Andrew Ng](https://www.deeplearning.ai/short-courses/), [Machine Learning and Big Data by Melissa Dell and Matthew Harding](https://www.aeaweb.org/conference/cont-ed/2023-webcasts), [Digital Economics and the Economics of AI by Martin Beraja, Chiara Farronato, Avi Goldfarb, and Catherine Tucker](https://www.aeaweb.org/content/file?id=19707)
