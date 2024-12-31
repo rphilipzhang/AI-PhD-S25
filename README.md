@@ -27,7 +27,7 @@ Most of the code in this course will be distributed through the [Google CoLab](h
 
 - The **CoLab** files of this course can be found at [this folder](https://drive.google.com/drive/folders/1lYO4ni5B5AVkYZ3qVrVs2LoWxHProsxM?usp=sharing).
 - The **Google Sheet** to sign up for groups and group tasks can be found [here](https://docs.google.com/spreadsheets/d/1ffRNlSFqki4vomz5UN0OseFNEoEXBY5kptS79wmgWs4/edit?usp=sharing).
-- The overleaf template for scribing the lecture notes of this course can be found [here]([https://www.overleaf.com/read/gpxtnszqtdns#230fa9](https://www.overleaf.com/read/vjypshwbmnxr#a63c60)).
+- The overleaf template for scribing the lecture notes of this course can be found [here](https://www.overleaf.com/read/gpxtnszqtdns#230fa9](https://www.overleaf.com/read/vjypshwbmnxr#a63c60).
 
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
 
