@@ -33,7 +33,7 @@ If you have any feedback on this course, please directly contact Philip at phili
 
 ## Previous Offerings
 - **GitHub Repos:** [Spring 2024 @CUHK](https://github.com/rphilipzhang/AI-PhD-S24), [Summer 2024 @SJTU Antai](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024)
-- **Video Recordings (Please apply for the access):** [Spring 2024 @CUHK](https://docs.google.com/document/d/1wUy9zWQHBI4gouM9x-xW0pqhqRD5WgLXPLRT9A1iCPA/edit?usp=sharing)
+- **Video Recordings (Please apply for the access):** [Spring 2024 @CUHK](https://docs.google.com/document/d/1wUy9zWQHBI4gouM9x-xW0pqhqRD5WgLXPLRT9A1iCPA/edit?usp=sharing), [Summer 2024@SJTU Antai](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024)
 - **Scribed Notes:** [Spring 2024 @CUHK](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf)
 
 ## Brief Schedule
