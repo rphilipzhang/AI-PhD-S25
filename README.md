@@ -27,13 +27,13 @@ Most of the code in this course will be distributed through the [Google CoLab](h
 
 - The **CoLab** files of this course can be found at [this folder](https://drive.google.com/drive/folders/1lYO4ni5B5AVkYZ3qVrVs2LoWxHProsxM?usp=sharing).
 - The **Google Sheet** to sign up for groups and group tasks can be found [here](https://docs.google.com/spreadsheets/d/1ffRNlSFqki4vomz5UN0OseFNEoEXBY5kptS79wmgWs4/edit?usp=sharing).
-- The overleaf template for scribing the lecture notes of this course can be found [here](https://www.overleaf.com/read/gpxtnszqtdns#230fa9).
+- The overleaf template for scribing the lecture notes of this course can be found [here]([https://www.overleaf.com/read/gpxtnszqtdns#230fa9](https://www.overleaf.com/read/vjypshwbmnxr#a63c60)).
 
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
 
 ## Previous Offerings
 - **GitHub Repos:** [Spring 2024 @CUHK](https://github.com/rphilipzhang/AI-PhD-S24), [Summer 2024 @SJTU Antai](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024)
-- **Video Recordings (Please apply for the access):** [Spring 2024 @CUHK](https://docs.google.com/document/d/1wUy9zWQHBI4gouM9x-xW0pqhqRD5WgLXPLRT9A1iCPA/edit?usp=sharing), [Summer 2024@SJTU Antai](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024)
+- **Video Recordings (Please apply for the access):** [Spring 2024 @CUHK](https://docs.google.com/document/d/1wUy9zWQHBI4gouM9x-xW0pqhqRD5WgLXPLRT9A1iCPA/edit?usp=sharing), [Summer 2024@SJTU Antai](https://docs.google.com/document/d/15nrUMEhW-Le3N8AJwxWrH1UFxWc0G1w2ZeGbbDwELQc/edit?usp=sharing)
 - **Scribed Notes:** [Spring 2024 @CUHK](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf)
 
 ## Brief Schedule
