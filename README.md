@@ -82,3 +82,19 @@ Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main
 ## Detailed Schedule
 
 The following schedule is tentative and subject to changes.
+
+### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/14/2024)
+- **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
+- **Slides**: *To be uploaded.*
+- **CoLab Notebook Demos**: [k-Nearest Neighbors](https://colab.research.google.com/drive/1Uzi3cosnnY3NSpNmosawlNIsEkEIzO_u?usp=sharing), [Decision Tree](https://colab.research.google.com/drive/1rqI5LA2m_u7fxsVgCk_dQqz1nFU00iXS?usp=sharing), [Random Forest](https://colab.research.google.com/drive/1hYGZMVPs-kKNt-faAcwULUSdpJTRLe2K?usp=sharing), [Gradient Boosting Tree](https://colab.research.google.com/drive/17IiebxpvjiFXYjUkejjry1cNNrMjUJDN?usp=sharing)
+- **Homework**: *To be uploaded.*
+- **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1hzHa-BAtrsQr_JejMwXHmqFRD9Zgf4rA?usp=sharing), 7:00pm-9:00pm, Jan/17/2025 (Friday), given by Xinyu Li, xinyu.li@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/93944864920?pwd=KAPcowZbwJj0YYOHertGqyKChCP0bv.1), Meeting ID: 939 4486 4920, Passcode: 456911
+- **References**:
+    - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, [link to ESL](https://hastie.su.domains/ElemStatLearn/).
+    - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy, [link to PML](https://probml.github.io/pml-book/book1.html).
+    - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106.
+    - Athey, Susan, and Guido W. Imbens. 2019. Machine learning methods that economists should know about. *Annual Review of Economics* 11: 685-725.
+    - Hofman, Jake M., et al. 2021. Integrating explanation and prediction in computational social science. *Nature* 595.7866: 181-188.
+    - Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. *Innovative Technology at the Interface of Finance and Operations*. Springer: 189-222.
+    - Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, *SSRN*, [link to the paper](https://ssrn.com/abstract=4501707).   
+    - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), by Rich Sutton, which develops so far the most critical insight of AI: "The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."
