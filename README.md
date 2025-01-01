@@ -83,7 +83,7 @@ Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main
 
 The following schedule is tentative and subject to changes.
 
-### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/14/2024)
+### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/14/2025)
 - **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
 - **Slides**: *To be uploaded.*
 - **CoLab Notebook Demos**: [k-Nearest Neighbors](https://colab.research.google.com/drive/1Uzi3cosnnY3NSpNmosawlNIsEkEIzO_u?usp=sharing), [Decision Tree](https://colab.research.google.com/drive/1rqI5LA2m_u7fxsVgCk_dQqz1nFU00iXS?usp=sharing), [Random Forest](https://colab.research.google.com/drive/1hYGZMVPs-kKNt-faAcwULUSdpJTRLe2K?usp=sharing), [Gradient Boosting Tree](https://colab.research.google.com/drive/17IiebxpvjiFXYjUkejjry1cNNrMjUJDN?usp=sharing)
