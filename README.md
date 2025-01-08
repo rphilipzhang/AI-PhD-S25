@@ -95,6 +95,7 @@ The following schedule is tentative and subject to changes.
     - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy, [link to PML](https://probml.github.io/pml-book/book1.html).
     - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106.
     - Athey, Susan, and Guido W. Imbens. 2019. Machine learning methods that economists should know about. *Annual Review of Economics* 11: 685-725.
+    - Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer. 2015. Prediction policy problems. *American Economic Review* 105(5): 491-495.
     - Hofman, Jake M., et al. 2021. Integrating explanation and prediction in computational social science. *Nature* 595.7866: 181-188.
     - Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. *Innovative Technology at the Interface of Finance and Operations*. Springer: 189-222.
     - Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, *SSRN*, [link to the paper](https://ssrn.com/abstract=4501707).   
