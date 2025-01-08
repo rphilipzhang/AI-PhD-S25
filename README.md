@@ -13,7 +13,7 @@
 - Location: Wu Ho Man Yuen Building (WMY) **504**
 
 ## About
-Welcome to the mono-repo of the PhD course AI for Business Research (DOTE 6635) at CUHK Business School in Spring 2024. You may download the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/AI-PhD-Syllabus-S2025.pdf) of this course first. The purpose of this course is to learn the following:
+Welcome to the mono-repo of the PhD course AI for Business Research (DOTE 6635) at CUHK Business School in Spring 2025. You may download the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/AI-PhD-Syllabus-S2025.pdf) of this course first. The purpose of this course is to learn the following:
 
 - Have a basic understanding of the fundamental concepts/methods in machine learning (ML) and artificial intelligence (AI) that are used (or potentially useful) in business research.
 - Understand how business researchers have utilized ML/AI and what managerial questions have been addressed by ML/AI in the recent decade.
