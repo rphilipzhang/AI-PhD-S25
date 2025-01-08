@@ -86,7 +86,7 @@ The following schedule is tentative and subject to changes.
 
 ### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/14/2025)
 - **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, Bootstrap, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
-- **Slides**: *To be uploaded.*
+- **Slides**: [Course Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-1-Intro.pdf), [Prediction](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-2-Prediction.pdf), [ML Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-3-Intro2ML.pdf)
 - **CoLab Notebook Demos**: [Bootstrap](https://colab.research.google.com/drive/1iAGJTOYY7rtvrGDCN1sPqeMUzdfJqYK3?usp=drive_link), [k-Nearest Neighbors](https://colab.research.google.com/drive/1Uzi3cosnnY3NSpNmosawlNIsEkEIzO_u?usp=sharing), [Decision Tree](https://colab.research.google.com/drive/1rqI5LA2m_u7fxsVgCk_dQqz1nFU00iXS?usp=sharing), [Random Forest](https://colab.research.google.com/drive/1hYGZMVPs-kKNt-faAcwULUSdpJTRLe2K?usp=sharing), [Gradient Boosting Tree](https://colab.research.google.com/drive/17IiebxpvjiFXYjUkejjry1cNNrMjUJDN?usp=sharing)
 - **Homework**: *To be uploaded.*
 - **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1hzHa-BAtrsQr_JejMwXHmqFRD9Zgf4rA?usp=sharing), 7:00pm-9:00pm, Jan/17/2025 (Friday), given by Xinyu Li, xinyu.li@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/93944864920?pwd=KAPcowZbwJj0YYOHertGqyKChCP0bv.1), Meeting ID: 939 4486 4920, Passcode: 456911
