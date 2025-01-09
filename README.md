@@ -14,7 +14,7 @@
 |------|----------------|
 | **Instructor** | [Renyu (Philip) Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html)<br>Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School <br>📧 philipzhang@cuhk.edu.hk<br>📍 @911 Cheng Yu Tung Building |
 | **Teaching Assistant** | Leo Cao<br>Full-time TA, Department of Decisions, Operations and Technology, CUHK Business School<br>📧 yinglyucao@cuhk.edu.hk |
-| **Tutorial Instructor** | Xinyu Li<br>PhD Candidate (Management Information Systems), CUHK Business School<br>📧 xinyu.li@link.cuhk.edu.hk |
+| **Tutorial Instructor** | [Xinyu Li](https://grad.bschool.cuhk.edu.hk/students/li-xinyu/)<br>PhD Candidate (Management Information Systems), CUHK Business School<br>📧 xinyu.li@link.cuhk.edu.hk |
 
 
 ## 📚 Basic Information
