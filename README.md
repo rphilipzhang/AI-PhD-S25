@@ -38,7 +38,7 @@ Welcome to the mono-repo of DOTE 6635: AI for Business Research at CUHK Business
 [Download Syllabus](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/AI-PhD-Syllabus-S2025.pdf)
 
 ### Virtual Access
-Need to join remotely? Use our Zoom link (requires instructor approval):
+Need to join remotely? Use our Zoom link (please seeks approval from Philip):
 - 🎥 [Join Meeting](https://cuhk.zoom.us/j/91863445131?pwd=6Pq42Ud2f4n788LRANI2j6a2ivFoMX.1)
   - Meeting ID: 918 6344 5131
   - Passcode: 459761
