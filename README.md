@@ -93,7 +93,7 @@ All problem sets are due at 12:30pm right before class.
 |5.11|11:59pm|Project Paper, Slides, and Code|Paper page limit: 10| 
 
 
-## 📚 Useful Resources
+## 📚 Useful External Resources
 Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/AI-PhD-Syllabus-S2025.pdf).
 
 - 📖 **Books**: [ESL](https://hastie.su.domains/ElemStatLearn/), [Deep Learning](https://www.deeplearningbook.org/), [Dive into Deep Learning](https://d2l.ai/), [ML Fairness](https://fairmlbook.org/), [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/), [Causal Inference: A Statistical Learning Approach](https://web.stanford.edu/~swager/causal_inf_book.pdf), [Reinforcement Learning: An Introduction](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf), [Introduction to Causal Inference from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
