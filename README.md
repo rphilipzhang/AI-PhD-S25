@@ -21,7 +21,7 @@
 
 - 🌐 Website: https://github.com/rphilipzhang/AI-PhD-S25
 - ⏰ Time: Tuesday, 12:30pm-3:15pm (Jan 14 - Apr 15, 2025)
-  - *Excluding: Jan 28 (Chinese New Year) and Mar 5 (Final Project Discussion)*
+  - *Excluding: Jan 28 (Chinese New Year) and Mar 4 (Final Project Discussion)*
 - 📍 Location: Wu Ho Man Yuen Building (WMY) **504**
 
 
@@ -33,7 +33,7 @@ Welcome to the mono-repo of DOTE 6635: AI for Business Research at CUHK Business
 
 - 🧠 Gain fundamental understanding of ML/AI concepts and methods relevant to business research.
 - 💡 Explore applications of ML/AI in business research over the past decade.
-- 🚀 Discover and nuture the taste of cutting-edge AI/ML technologies and their potential in your research domain
+- 🚀 Discover and nuture the taste of cutting-edge AI/ML technologies and their potential in your research domain.
 
 [Download Syllabus](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/AI-PhD-Syllabus-S2025.pdf)
 
