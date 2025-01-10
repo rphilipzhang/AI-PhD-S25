@@ -115,7 +115,7 @@ Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-S24/blob/main
 The following schedule is tentative and subject to changes.
 
 ### 📚 Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/14/2025)
-- 🔑 **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, Bootstrap, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
+- 🔑 **Keywords**: Course Introduction, Bias-Variance Trade-off, Cross Validation, Bootstrap, Prediction in Biz Research, Basic ML Models
 - 📊 **Slides**: [Course Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-1-Intro.pdf), [Prediction](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-2-Prediction.pdf), [ML Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-3-Intro2ML.pdf)
 - 💻 **CoLab Notebook Demos**: [Bootstrap](https://colab.research.google.com/drive/1iAGJTOYY7rtvrGDCN1sPqeMUzdfJqYK3?usp=drive_link), [k-Nearest Neighbors](https://colab.research.google.com/drive/1Uzi3cosnnY3NSpNmosawlNIsEkEIzO_u?usp=sharing), [Decision Tree](https://colab.research.google.com/drive/1rqI5LA2m_u7fxsVgCk_dQqz1nFU00iXS?usp=sharing), [Random Forest](https://colab.research.google.com/drive/1hYGZMVPs-kKNt-faAcwULUSdpJTRLe2K?usp=sharing), [Gradient Boosting Tree](https://colab.research.google.com/drive/17IiebxpvjiFXYjUkejjry1cNNrMjUJDN?usp=sharing)
 - ✍️ **Homework**: [Problem Set 1 - Housing Price Prediction](https://colab.research.google.com/drive/1EDWWfXRENzztcUBgSQ-GB3KOdRRfgfRw?usp=sharing)
