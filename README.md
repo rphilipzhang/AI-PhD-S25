@@ -132,3 +132,4 @@ The following schedule is tentative and subject to changes.
     - Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. *Innovative Technology at the Interface of Finance and Operations*. Springer: 189-222.
     - Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, *SSRN*, [link to the paper](https://ssrn.com/abstract=4501707).   
     - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), by Rich Sutton, which develops so far the most critical insight of AI: "The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."
+    - Chatpers 1 & 3.2, [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
