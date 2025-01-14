@@ -87,7 +87,7 @@ All problem sets are due at 12:30pm right before class.
 |Date| Time|Event|Note|
 |:--:|:-:|:---:|:--:|
 |1.15| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/1ffRNlSFqki4vomz5UN0OseFNEoEXBY5kptS79wmgWs4/edit?usp=sharing)|Each group has at most two students.|
-|1.17| 7:00pm-9:00pm|Python Tutorial|Given by Xinyu Li, [Python Tutorial CoLab](https://colab.research.google.com/drive/1hzHa-BAtrsQr_JejMwXHmqFRD9Zgf4rA?usp=sharing)|
+|1.17| 7:00pm-9:00pm|Python Tutorial|Given by Xinyu Li, [Python Tutorial CoLab](https://colab.research.google.com/drive/1hzHa-BAtrsQr_JejMwXHmqFRD9Zgf4rA?usp=sharing), [More resources](https://drive.google.com/drive/folders/19iL1wYT2zeaYeIY7QyxQz7QQsZGrq7Nk?usp=sharing)|
 |1.24| 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) and [DOT HPC Server](https://github.com/QiansiqiHu/DOT-server) Tutorial|Given by Xinyu Li, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1JDezUDZoIEblFYGDVoWwfJHmH1-FbURa?usp=sharing)|
 |3.04|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
 |3.11| 12:30pm|Final Project Proposal|1-page maximum|
@@ -121,7 +121,7 @@ The following schedule is tentative and subject to changes.
 - 📊 **Slides**: [Course Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-1-Intro.pdf), [Prediction](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-2-Prediction.pdf), [ML Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-3-Intro2ML.pdf)
 - 💻 **CoLab Notebook Demos**: [Bootstrap](https://colab.research.google.com/drive/1iAGJTOYY7rtvrGDCN1sPqeMUzdfJqYK3?usp=drive_link), [k-Nearest Neighbors](https://colab.research.google.com/drive/1Uzi3cosnnY3NSpNmosawlNIsEkEIzO_u?usp=sharing), [Decision Tree](https://colab.research.google.com/drive/1rqI5LA2m_u7fxsVgCk_dQqz1nFU00iXS?usp=sharing), [Random Forest](https://colab.research.google.com/drive/1hYGZMVPs-kKNt-faAcwULUSdpJTRLe2K?usp=sharing), [Gradient Boosting Tree](https://colab.research.google.com/drive/17IiebxpvjiFXYjUkejjry1cNNrMjUJDN?usp=sharing)
 - ✍️ **Homework**: [Problem Set 1 - Housing Price Prediction](https://colab.research.google.com/drive/1EDWWfXRENzztcUBgSQ-GB3KOdRRfgfRw?usp=sharing), Due at 12:30pm, Feb 4, 2025
-- 🎓 **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1hzHa-BAtrsQr_JejMwXHmqFRD9Zgf4rA?usp=sharing), 7:00pm-9:00pm, Jan/17/2025 (Friday), given by Xinyu Li, xinyu.li@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/93944864920?pwd=KAPcowZbwJj0YYOHertGqyKChCP0bv.1), Meeting ID: 939 4486 4920, Passcode: 456911
+- 🎓 **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1hzHa-BAtrsQr_JejMwXHmqFRD9Zgf4rA?usp=sharing), [More resources](https://drive.google.com/drive/folders/19iL1wYT2zeaYeIY7QyxQz7QQsZGrq7Nk?usp=sharing), 7:00pm-9:00pm, Jan/17/2025 (Friday), given by Xinyu Li, xinyu.li@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/93944864920?pwd=KAPcowZbwJj0YYOHertGqyKChCP0bv.1), Meeting ID: 939 4486 4920, Passcode: 456911
 - 📚 **References**:
     - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, [link to ESL](https://hastie.su.domains/ElemStatLearn/).
     - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy, [link to PML](https://probml.github.io/pml-book/book1.html).
