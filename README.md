@@ -145,4 +145,4 @@ The following schedule is tentative and subject to changes.
     - *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, [link to d2dl](https://d2l.ai/).
     - *Probabilistic Machine Learning: Advanced Topics*, 2023, by Kevin Murphy, [link to PML2](https://probml.github.io/pml-book/book2.html).
     - *Deep Learning with PyTorch*, 2020, by Eli Stevens, Luca Antiga, and Thomas Viehmann.
-    - Dell, Mellissa. 2024. Deep learning for economists. *Journal of Economic Literature*, forthcoming, (link to the paper)[https://arxiv.org/abs/2407.15339].
+    - Dell, Mellissa. 2024. Deep learning for economists. *Journal of Economic Literature*, forthcoming, [link to the paper](https://arxiv.org/abs/2407.15339).
