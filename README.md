@@ -146,3 +146,7 @@ The following schedule is tentative and subject to changes.
     - *Probabilistic Machine Learning: Advanced Topics*, 2023, by Kevin Murphy, [link to PML2](https://probml.github.io/pml-book/book2.html).
     - *Deep Learning with PyTorch*, 2020, by Eli Stevens, Luca Antiga, and Thomas Viehmann.
     - Dell, Mellissa. 2024. Deep learning for economists. *Journal of Economic Literature*, forthcoming, [link to the paper](https://arxiv.org/abs/2407.15339).
+    - Davies, A., Veličković, P., Buesing, L., Blackwell, S., Zheng, D., Tomašev, N., Tanburn, R., Battaglia, P., Blundell, C., Juhász, A. and Lackenby, M., 2021. Advancing mathematics by guiding human intuition with AI. Nature, 600(7887), pp.70-74.
+    - Ye, Z., Zhang, Z., Zhang, D., Zhang, H. and Zhang, R.P., 2023. Deep-Learning-Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence. Available at SSRN 4375327, [link to the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327).
+    - Luyang Chen, Markus Pelger, Jason Zhu (2023) Deep Learning in Asset Pricing. Management Science 70(2):714-750.
+    - Wang, Z., Gao, R. and Li, S. 2024. Neural-Network Mixed Logit Choice Model: Statistical and Optimality Guarantees. *Working paper*.
