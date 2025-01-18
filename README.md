@@ -150,7 +150,7 @@ The following schedule is tentative and subject to changes.
     - Ye, Z., Zhang, Z., Zhang, D., Zhang, H. and Zhang, R.P., 2023. Deep-Learning-Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence. Available at *SSRN* 4375327, [link to the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327).
     - Luyang Chen, Markus Pelger, Jason Zhu (2023) Deep Learning in Asset Pricing. *Management Science* 70(2):714-750.
     - Wang, Z., Gao, R. and Li, S. 2024. Neural-Network Mixed Logit Choice Model: Statistical and Optimality Guarantees. *Working paper*.
-    - [Why Does Adam Work So Well? (in Chinese)](https://www.zhihu.com/question/323747423/answer/2576604040)
+    - [Why Does Adam Work So Well? (in Chinese)](https://www.zhihu.com/question/323747423/answer/2576604040), [Overview of gradient descent algorithms](https://arxiv.org/pdf/1609.04747)
     - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150)
     - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
     - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
