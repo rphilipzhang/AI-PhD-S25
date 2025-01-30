@@ -1,4 +1,4 @@
-🤖 Artificial Intelligence for Business Research (Spring 2025)
+# 🤖 Artificial Intelligence for Business Research (Spring 2025)
 
 <div align="center">
 
