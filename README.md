@@ -159,11 +159,12 @@ The following schedule is tentative and subject to changes.
 - 💻 **CoLab Notebook Demos**: [Dropout](https://colab.research.google.com/drive/14VIl6_JokegSFRSUgaxX8Xi8hvZY-GRn), [Micrograd](https://colab.research.google.com/drive/1T_ZwQdzSpXCDR5cwt_0eH1wUvWNiMGAJ), [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws), [Transformer](https://colab.research.google.com/drive/1LKHCItyYk94UfZMMWWcoD81CVqEWMY5a)
 - ✍️ **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1mwte7tn0R68Hj3ZZCvUA5RoUqcdQpja5), due at 12:30pm, Feb/11/2025
 - 📝 **Presentation of Replication Project**: By Jiaci Yi and Yachong Wang
-    - Gui, G. and Toubia, O., 2023. The challenge of using LLMs to simulate human behavior: A causal inference perspective. arXiv:2312.15524. [Link to the paper](https://arxiv.org/abs/2312.15524).  
+    - Gui, G. and Toubia, O., 2023. The challenge of using LLMs to simulate human behavior: A causal inference perspective. *arXiv:2312.15524*. [Link to the paper](https://arxiv.org/abs/2312.15524).  
 - 📚 **References**:
     - *Deep Learning*, 2016, by Ian Goodfellow, Yoshua Bengio and Aaron Courville, [link to DL](https://www.deeplearningbook.org/).
     - *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, [link to d2dl](https://d2l.ai/).
     - Dell, Mellissa. 2024. Deep learning for economists. *Journal of Economic Literature*, forthcoming, [link to the paper](https://arxiv.org/abs/2407.15339).
+    - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. 2014. Sequence to sequence learning with neural networks. *Advances in neural information processing systems*, 27.
     - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... and Polosukhin, I. (2017). Attention is all you need. *Advances in neural information processing systems*, 30.
     - Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., ... & Jurafsky, D. (2022). Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. *Proceedings of the National Academy of Sciences*, 119(31), e2120510119.
     - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
