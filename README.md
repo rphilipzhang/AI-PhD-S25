@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae5d6ffb-1eeb-4612-bf39-9875e21a805c)# 🤖 Artificial Intelligence for Business Research (Spring 2025)
+🤖 Artificial Intelligence for Business Research (Spring 2025)
 
 <div align="center">
 
