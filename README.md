@@ -1,4 +1,4 @@
-# 🤖 Artificial Intelligence for Business Research (Spring 2025)
+![image](https://github.com/user-attachments/assets/ae5d6ffb-1eeb-4612-bf39-9875e21a805c)# 🤖 Artificial Intelligence for Business Research (Spring 2025)
 
 <div align="center">
 
@@ -137,7 +137,7 @@ The following schedule is tentative and subject to changes.
 ### 📚 Session 2. Model Selection and Deep Learning Basics (Jan/21/2025)
 - 🔑 **Keywords**: Bias-Variance Trade-off, Cross Validation, Bootstrap, Neural Nets, Computational Issues of Deep Learning
 - 📊 **Slides**: [ML Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-3-Intro2ML.pdf), [DL Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-4-Intro2DL.pdf)
-- 💻 **CoLab Notebook Demos**: [Gradient Descent](https://colab.research.google.com/drive/1bgwzNd0u2cCshELSxxg-9QMA2OMrXEui), [Chain Rule](https://colab.research.google.com/drive/1gzYErH1tAOWaKb-sqCUgNLNQ8Ww4iV7t), [He Innitialization](https://colab.research.google.com/drive/1KuZHvgAVA2nKSkVdVsWzSCKgOoRuX_hF), [Dropout](https://colab.research.google.com/drive/14VIl6_JokegSFRSUgaxX8Xi8hvZY-GRn), [Micrograd](https://colab.research.google.com/drive/1T_ZwQdzSpXCDR5cwt_0eH1wUvWNiMGAJ)
+- 💻 **CoLab Notebook Demos**: [Gradient Descent](https://colab.research.google.com/drive/1bgwzNd0u2cCshELSxxg-9QMA2OMrXEui), [Chain Rule](https://colab.research.google.com/drive/1gzYErH1tAOWaKb-sqCUgNLNQ8Ww4iV7t), [He Innitialization](https://colab.research.google.com/drive/1KuZHvgAVA2nKSkVdVsWzSCKgOoRuX_hF)
 - ✍️ **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1mwte7tn0R68Hj3ZZCvUA5RoUqcdQpja5), due at 12:30pm, Feb/11/2025
 - 🎓 **Online PyTorch and [DOT HPC Server](https://github.com/QiansiqiHu/DOT-server) Tutorial**: [PyTorch Tutorial CoLab](https://drive.google.com/drive/folders/19iL1wYT2zeaYeIY7QyxQz7QQsZGrq7Nk?usp=sharing), 7:00pm-9:00pm, Jan/24/2025 (Friday), given by Xinyu Li, xinyu.li@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/93944864920?pwd=KAPcowZbwJj0YYOHertGqyKChCP0bv.1), Meeting ID: 939 4486 4920, Passcode: 456911
 - 📚 **References**:
@@ -151,8 +151,24 @@ The following schedule is tentative and subject to changes.
     - Luyang Chen, Markus Pelger, Jason Zhu (2023) Deep Learning in Asset Pricing. *Management Science* 70(2):714-750.
     - Wang, Z., Gao, R. and Li, S. 2024. Neural-Network Mixed Logit Choice Model: Statistical and Optimality Guarantees. *Working paper*.
     - [Why Does Adam Work So Well? (in Chinese)](https://www.zhihu.com/question/323747423/answer/2576604040), [Overview of gradient descent algorithms](https://arxiv.org/pdf/1609.04747)
-    - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150)
-    - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
-    - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
     - Chatpers 1 & 2, [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
 
+### 📚 Session 3. Deep Learning Computations and Transformer (Feb/4/2025)
+- 🔑 **Keywords**: Deep Learning Computations, Seq2Seq, Attention Mechanism, Transformer
+- 📊 **Slides**: [DL Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-4-Intro2DL.pdf), [Transformer](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-5-Transformers.pdf)
+- 💻 **CoLab Notebook Demos**: [Dropout](https://colab.research.google.com/drive/14VIl6_JokegSFRSUgaxX8Xi8hvZY-GRn), [Micrograd](https://colab.research.google.com/drive/1T_ZwQdzSpXCDR5cwt_0eH1wUvWNiMGAJ), [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws), [Transformer](https://colab.research.google.com/drive/1LKHCItyYk94UfZMMWWcoD81CVqEWMY5a)
+- ✍️ **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1mwte7tn0R68Hj3ZZCvUA5RoUqcdQpja5), due at 12:30pm, Feb/11/2025
+- 📝 **Presentation of Replication Project**: By Jiaci Yi and Yachong Wang
+    - Gui, G. and Toubia, O., 2023. The challenge of using LLMs to simulate human behavior: A causal inference perspective. arXiv:2312.15524. [Link to the paper](https://arxiv.org/abs/2312.15524).  
+- 📚 **References**:
+    - *Deep Learning*, 2016, by Ian Goodfellow, Yoshua Bengio and Aaron Courville, [link to DL](https://www.deeplearningbook.org/).
+    - *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, [link to d2dl](https://d2l.ai/).
+    - Dell, Mellissa. 2024. Deep learning for economists. *Journal of Economic Literature*, forthcoming, [link to the paper](https://arxiv.org/abs/2407.15339).
+    - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... and Polosukhin, I. (2017). Attention is all you need. *Advances in neural information processing systems*, 30.
+    - Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., ... & Jurafsky, D. (2022). Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. *Proceedings of the National Academy of Sciences*, 119(31), e2120510119.
+    - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
+    - Hansen, Stephen, Peter J. Lambert, Nicholas Bloom, Steven J. Davis, Raffaella Sadun, and Bledi Taska. 2023. Remote work across jobs, companies, and space (No. w31007). *National Bureau of Economic Research*.
+    - Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto. [Link to CS224n](https://web.stanford.edu/class/cs224n/).
+    - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150), [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640), [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd) by [Andrej Karpathy](https://github.com/karpathy).
+    - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html), [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), [Transformer from Scratch](https://peterbloem.nl/blog/transformers) with the [Code on GitHub](https://github.com/pbloem/former).
+    - Chatpers 2, 6 & 7, [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
