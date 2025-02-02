@@ -155,7 +155,7 @@ The following schedule is tentative and subject to changes.
 
 ### 📚 Session 3. Deep Learning Computations and Transformer (Feb/4/2025)
 - 🔑 **Keywords**: Deep Learning Computations, Seq2Seq, Attention Mechanism, Transformer
-- 📊 **Slides**: [DL Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-4-Intro2DL.pdf), [Transformer](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-5-Transformers.pdf)
+- 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [DL Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-4-Intro2DL.pdf), [Transformer](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-5-Transformers.pdf)
 - 💻 **CoLab Notebook Demos**: [Dropout](https://colab.research.google.com/drive/14VIl6_JokegSFRSUgaxX8Xi8hvZY-GRn), [Micrograd](https://colab.research.google.com/drive/1T_ZwQdzSpXCDR5cwt_0eH1wUvWNiMGAJ), [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws), [Transformer](https://colab.research.google.com/drive/1LKHCItyYk94UfZMMWWcoD81CVqEWMY5a)
 - ✍️ **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1mwte7tn0R68Hj3ZZCvUA5RoUqcdQpja5), due at 12:30pm, Feb/11/2025
 - 📝 **Presentation of Replication Project**: By Jiaci Yi and Yachong Wang
