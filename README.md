@@ -57,9 +57,9 @@ Most of the code in this course will be distributed through the [Google CoLab](h
 If you have any feedback on this course, please directly contact Philip at philipzhang@cuhk.edu.hk and we will try our best to address it.
 
 ## 📚 Previous Offerings
-- **🗂️ GitHub Repos:** [Spring 2024 @CUHK](https://github.com/rphilipzhang/AI-PhD-S24), [Summer 2024 @SJTU Antai](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024)
+- **🗂️ GitHub Repos:** [Spring 2024@CUHK](https://github.com/rphilipzhang/AI-PhD-S24), [Summer 2024@SJTU Antai](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024)
 - **🎥 Video Recordings (You need to apply for access):** [Spring 2024@CUHK](https://docs.google.com/document/d/1wUy9zWQHBI4gouM9x-xW0pqhqRD5WgLXPLRT9A1iCPA/edit?usp=sharing), [Summer 2024@SJTU Antai](https://docs.google.com/document/d/15nrUMEhW-Le3N8AJwxWrH1UFxWc0G1w2ZeGbbDwELQc/edit?usp=sharing)
-- **📝 Scribed Notes:** [Spring 2024 @CUHK](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf)
+- **📝 Scribed Notes:** [Spring 2024@CUHK](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf)
 
 ## 📅 Brief Schedule
 Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
