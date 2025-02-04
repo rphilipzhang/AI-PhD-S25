@@ -153,7 +153,7 @@ The following schedule is tentative and subject to changes.
     - [Why Does Adam Work So Well? (in Chinese)](https://www.zhihu.com/question/323747423/answer/2576604040), [Overview of gradient descent algorithms](https://arxiv.org/pdf/1609.04747)
     - Chatpers 1 & 2, [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
 
-### 📚 Session 3. Deep Learning Computations and Transformer (Feb/4/2025)
+### 📚 Session 3. Deep Learning Computations and Attention Mechanism (Feb/4/2025)
 - 🔑 **Keywords**: Deep Learning Computations, Seq2Seq, Attention Mechanism, Transformer
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [DL Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-4-Intro2DL.pdf), [Transformer](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-5-Transformers.pdf)
 - 💻 **CoLab Notebook Demos**: [Dropout](https://colab.research.google.com/drive/14VIl6_JokegSFRSUgaxX8Xi8hvZY-GRn), [Micrograd](https://colab.research.google.com/drive/1T_ZwQdzSpXCDR5cwt_0eH1wUvWNiMGAJ), [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws), [Transformer](https://colab.research.google.com/drive/1LKHCItyYk94UfZMMWWcoD81CVqEWMY5a)
