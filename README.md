@@ -188,6 +188,6 @@ The following schedule is tentative and subject to changes.
     - Part 2 & 4, Slides for COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
     - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), [Transformer from Scratch](https://peterbloem.nl/blog/transformers) with the [Code on GitHub](https://github.com/pbloem/former).
     - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-    - Andrej Karpathy's Lectures: [Build GPT-2 (124M) from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU), [Deep Dive into LLM](Andrej Karpathy's Lecture)
+    - Andrej Karpathy's Lectures: [Build GPT-2 (124M) from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU), [Deep Dive into LLM](https://www.youtube.com/watch?v=7xTGNNLPyMI)
     - Chatpers 7 & 8 [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
 
