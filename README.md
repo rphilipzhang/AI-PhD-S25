@@ -156,7 +156,7 @@ The following schedule is tentative and subject to changes.
 ### 📚 Session 3. Deep Learning Computations and Attention Mechanism (Feb/4/2025)
 - 🔑 **Keywords**: Deep Learning Computations, Seq2Seq, Attention Mechanism, Transformer
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [DL Intro](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-4-Intro2DL.pdf), [Transformer](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-5-Transformers.pdf)
-- 💻 **CoLab Notebook Demos**: [Dropout](https://colab.research.google.com/drive/14VIl6_JokegSFRSUgaxX8Xi8hvZY-GRn), [Micrograd](https://colab.research.google.com/drive/1T_ZwQdzSpXCDR5cwt_0eH1wUvWNiMGAJ), [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws), [Transformer](https://colab.research.google.com/drive/1LKHCItyYk94UfZMMWWcoD81CVqEWMY5a)
+- 💻 **CoLab Notebook Demos**: [Dropout](https://colab.research.google.com/drive/14VIl6_JokegSFRSUgaxX8Xi8hvZY-GRn), [Micrograd](https://colab.research.google.com/drive/1T_ZwQdzSpXCDR5cwt_0eH1wUvWNiMGAJ), [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws)
 - ✍️ **Homework**: [Problem Set 2: Implementing Neural Nets](https://colab.research.google.com/drive/1mwte7tn0R68Hj3ZZCvUA5RoUqcdQpja5), due at 12:30pm, Feb/11/2025
 - 📝 **Presentation of Replication Project**: By Jiaci Yi and Yachong Wang
     - Gui, G. and Toubia, O., 2023. The challenge of using LLMs to simulate human behavior: A causal inference perspective. *arXiv:2312.15524*. [Link to the paper](https://arxiv.org/abs/2312.15524).  
@@ -165,12 +165,29 @@ The following schedule is tentative and subject to changes.
     - *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, [link to d2dl](https://d2l.ai/).
     - Dell, Mellissa. 2024. Deep learning for economists. *Journal of Economic Literature*, forthcoming, [link to the paper](https://arxiv.org/abs/2407.15339).
     - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. 2014. Sequence to sequence learning with neural networks. *Advances in neural information processing systems*, 27.
+    - Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto. [Link to CS224n](https://web.stanford.edu/class/cs224n/).
+    - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150), [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640), [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd) by [Andrej Karpathy](https://github.com/karpathy).
+    - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html).
+    - Chatpers 2 & 6, [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
+    - [Handwritten Notes](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Notes/250204.pdf)
+
+### 📚 Session 4. Transformer and Pretraining Basics (Feb/11/2025)
+- 🔑 **Keywords**: Transformer, Pretraining, BERT, GPT
+- 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [Transformer](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-5-Transformers.pdf), [Pretraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-6-Pretraining.pdf)
+- 💻 **CoLab Notebook Demos**: [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws), [Transformer](https://colab.research.google.com/drive/1LKHCItyYk94UfZMMWWcoD81CVqEWMY5a), [BERT API @ Hugging Face](https://colab.research.google.com/drive/1erSNbevWi0o7Kb6G3_6GiTqCE4VfEjbe?usp=drive_link)
+- ✍️ **Homework**: [Problem Set 3: Sentiment Analysis with BERT](https://colab.research.google.com/drive/1mmdGC2xpC8wrotfn2ZK36vM0kCH0Z9Lj?usp=drive_link), due at 12:30pm, Feb/25/2025
+- 📝 **Presentation of Replication Project**: By Xiqing Qin and Yuxin Chen
+    - Manning, B.S., Zhu, K. and Horton, J.J., 2024. Automated social science: Language models as scientists and subjects (No. w32381). *National Bureau of Economic Research*. [Link to the paper](https://www.nber.org/papers/w32381), [link to GitHub Repo](https://github.com/KeHang-Zhu/lm-automated-social-science/).  
+- 📚 **References**:
     - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... and Polosukhin, I. (2017). Attention is all you need. *Advances in neural information processing systems*, 30.
     - Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., ... & Jurafsky, D. (2022). Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. *Proceedings of the National Academy of Sciences*, 119(31), e2120510119.
     - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
     - Hansen, Stephen, Peter J. Lambert, Nicholas Bloom, Steven J. Davis, Raffaella Sadun, and Bledi Taska. 2023. Remote work across jobs, companies, and space (No. w31007). *National Bureau of Economic Research*.
+    - Chapter 11, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, [link to d2dl](https://d2l.ai/).
     - Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto. [Link to CS224n](https://web.stanford.edu/class/cs224n/).
-    - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150), [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640), [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd) by [Andrej Karpathy](https://github.com/karpathy).
-    - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html), [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), [Transformer from Scratch](https://peterbloem.nl/blog/transformers) with the [Code on GitHub](https://github.com/pbloem/former).
-    - Chatpers 2, 6 & 7, [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
-    - [Handwritten Notes](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Notes/250204.pdf)
+    - Part 2 & 4, Slides for COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+    - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), [Transformer from Scratch](https://peterbloem.nl/blog/transformers) with the [Code on GitHub](https://github.com/pbloem/former).
+    - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+    - Andrej Karpathy's Lectures: [Build GPT-2 (124M) from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU), [Deep Dive into LLM](Andrej Karpathy's Lecture)
+    - Chatpers 7 & 8 [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
+
