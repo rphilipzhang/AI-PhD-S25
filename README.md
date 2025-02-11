@@ -176,7 +176,7 @@ The following schedule is tentative and subject to changes.
 - 🔑 **Keywords**: Transformer, Pretraining, BERT, GPT
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [Transformer](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-5-Transformers.pdf), [Pretraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-6-Pretraining.pdf)
 - 💻 **CoLab Notebook Demos**: [Attention Mechanism](https://colab.research.google.com/drive/11Lx075g2elZa1Vbcbbcx1YfGuQdXLXws), [Transformer](https://colab.research.google.com/drive/1LKHCItyYk94UfZMMWWcoD81CVqEWMY5a), [BERT API @ Hugging Face](https://colab.research.google.com/drive/1erSNbevWi0o7Kb6G3_6GiTqCE4VfEjbe?usp=drive_link)
-- ✍️ **Homework**: [Problem Set 3: Sentiment Analysis with BERT](https://colab.research.google.com/drive/1mmdGC2xpC8wrotfn2ZK36vM0kCH0Z9Lj?usp=drive_link), due at 12:30pm, Feb/25/2025
+- ✍️ **Homework**: [Problem Set 3: Sentiment Analysis with BERT](https://colab.research.google.com/drive/1mmdGC2xpC8wrotfn2ZK36vM0kCH0Z9Lj?usp=drive_link), due at 12:30pm, Mar/4/2025
 - 📝 **Presentation of Replication Project**: By Xiqing Qin and Yuxin Chen
     - Manning, B.S., Zhu, K. and Horton, J.J., 2024. Automated social science: Language models as scientists and subjects (No. w32381). *National Bureau of Economic Research*. [Link to the paper](https://www.nber.org/papers/w32381), [link to GitHub Repo](https://github.com/KeHang-Zhu/lm-automated-social-science/).  
 - 📚 **References**:
