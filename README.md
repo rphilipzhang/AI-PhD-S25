@@ -193,3 +193,4 @@ The following schedule is tentative and subject to changes.
     - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
     - Andrej Karpathy's Lectures: [Build GPT-2 (124M) from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU), [Deep Dive into LLM](https://www.youtube.com/watch?v=7xTGNNLPyMI)
     - Chatpers 7 & 8 [Scribed Notes of Spring 2024 Course Offering](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf).
+    - [Handwritten Notes](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Notes/250211.pdf)
