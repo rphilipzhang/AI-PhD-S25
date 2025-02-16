@@ -66,13 +66,13 @@ If you have any feedback on this course, please directly contact Philip at phili
 Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
 |Session|Date |Topic|Key Words|
 |:-------:|:-------------:|:----:|:-:|
-|1|1.14|AI/ML in a Nutshell|Course Intro, ML Models, Model Evaluations|
-|2|1.21|Intro to DL|DL Intro, Neural Nets, Prediction in Biz Research|
-|3|2.04|LLM (I)|Transformer, Mamba| 
-|4|2.11|LLM (II)|Pre-training, BERT, GPT, Quantization|
-|5|2.18|LLM (III)|Post-training, Fine-tuning, RLHF, Inference|
-|6|2.25|LLM (IV)|Agentic AI, AI as Human Simulators|
-|7|3.04|LLM (IV.V)|Final Project Discussions, Applications in Business Research| 
+|1|1.14|AI/ML in a Nutshell|Course Intro, Prediction in Biz Research|
+|2|1.21|Intro to DL|ML Model Evaluations, DL Intro, Neural Nets|
+|3|2.04|LLM (I)|DL Computations, Attention Mechanism| 
+|4|2.11|LLM (II)|Transformer, ViT, DiT|
+|5|2.18|LLM (III)|Pre-training, BERT, GPT|
+|6|2.25|LLM (IV)|Post-training, Fine-tuning, RLHF, Inference, Quantization|
+|7|3.04|LLM (V)|Agentic AI, AI as Human Simulators, Applications in Business Research| 
 |8|3.11|Causal (I)|Causal Inference Intro|
 |9|3.18|Causal (II)|ML-Powered Causal Inference, Causal Trees and Forests|
 |10|3.25|Causal (III)|Double Machine Learning, Neyman Orthogonality|
