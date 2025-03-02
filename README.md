@@ -70,15 +70,15 @@ Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
 |2|1.21|Intro to DL|ML Model Evaluations, DL Intro, Neural Nets|
 |3|2.04|LLM (I)|DL Computations, Attention Mechanism| 
 |4|2.11|LLM (II)|Transformer, ViT, DiT|
-|5|2.18|LLM (III)|Pre-training, BERT, GPT|
-|6|2.25|LLM (IV)|Post-training, Fine-tuning, RLHF, Inference, Quantization|
-|7|3.04|LLM (V)|Agentic AI, AI as Human Simulators, Applications in Business Research| 
-|8|3.11|Causal (I)|Causal Inference Intro|
-|9|3.18|Causal (II)|ML-Powered Causal Inference, Causal Trees and Forests|
-|10|3.25|Causal (III)|Double Machine Learning, Neyman Orthogonality|
-|11|4.01|Causal (IV)|RL, Off-Policy Evaluation|
-|12|4.08|Economics and Ethics of AI|Economic Impact, Fairness, Bias of AI|
-|13|4.15|Final Project Presentation|Discussions and Course Wrap-up|
+|5|2.18|LLM (III)| BERT, GPT|
+|6|2.25|LLM (IV)|LLM Pre-training, DL Computations|
+|7|3.04|LLM (V)|Post-training, Fine-tuning, RLHF, Test-Time Scaling, Inference, Quantization| 
+|8|3.11|LLM (VI)| Agentic AI, AI as Human Simulators, Applications in Business Research| 
+|9|3.18|Causal (I)|Causal Inference Intro|
+|10|3.25|Causal (II)|ML-Powered Causal Inference, Causal Trees and Forests|
+|11|4.01|Causal (III)|Double Machine Learning, Neyman Orthogonality|
+|12|4.08|Causal (IV)|RL, Off-Policy Evaluation|
+|13|4.15|Causal (V)|LLM x Causal Inference and Course Wrap-up|
 
 
 ## 📅 Important Dates
