@@ -232,7 +232,7 @@ The following schedule is tentative and subject to changes.
     - Miscellaneous Resources: [CS224n, Hugging Face 🤗 Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing), [LLM Visualization](https://bbycroft.net/llm), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/), [Video on DeepSeek MoE](https://www.youtube.com/watch?v=P7txFafuUOE), [Video on DeekSeep Native Sparse Attention](https://www.bilibili.com/video/BV1bCADe4Eyf), [TikTokenizer](https://tiktokenizer.vercel.app/), [Inference with Base LLM](https://app.hyperbolic.xyz/)
 
 ### 📚 Session 7. LLM Posttraining & Inference (Mar/4/2025)
-- 🔑 **Keywords**: Posttraining, SFT, PEFT, RLHF, DPO, Test-Time Scaling, Knowledge Distillation, Inference, Quantization, LLM Evaluations
+- 🔑 **Keywords**: Posttraining, SFT, PEFT, RLHF, DPO
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Posttraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-7-Posttraining.pdf), [Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-8-Inference.pdf), [Research Tools](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-9-LLM-Research-Tools.pdf)
 - 💻 **CoLab Notebook Demos**: [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
 - ✍️ **Homework**: [Problem Set 4: Finetuning LLM](https://colab.research.google.com/drive/15kAfanD_W-CTOZnyQBjGHwLTlMfGcPgp?usp=sharing), due at 12:30pm, Mar/18/2025
@@ -249,7 +249,7 @@ The following schedule is tentative and subject to changes.
     - Miscellaneous Resources: [Video on DeepSeek R1](https://www.youtube.com/watch?v=tRuN8xYdETs), [Video on DeekSeep MLA](https://www.bilibili.com/video/BV1HqFQezEMt/), [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html), [DeepSeek Open-Infra Repo](https://github.com/deepseek-ai/open-infra-index)
 
 ### 📚 Session 8. LLM Inference and as Research Tools (Feb/25/2025)
-- 🔑 **Keywords**: Test-Time Scaling, Knowledge Distillation, Inference, Quantization, 
+- 🔑 **Keywords**: Test-Time Scaling, Knowledge Distillation, Inference, Quantization, LLM Evaluations, LLM Agents
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Posttraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-7-Posttraining.pdf), [Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-8-Inference.pdf)
 - 💻 **CoLab Notebook Demos**: [LLM Finetuning](https://colab.research.google.com/drive/1xNB0U0_qARcNbhO-6tawBBQ-GKsSqPc2?usp=sharing), [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
 - ✍️ **Homework**: [Problem Set 4: Finetuning LLM](https://colab.research.google.com/drive/15kAfanD_W-CTOZnyQBjGHwLTlMfGcPgp?usp=sharing), due at 12:30pm, Mar/18/2025
