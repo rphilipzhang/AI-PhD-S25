@@ -234,7 +234,7 @@ The following schedule is tentative and subject to changes.
 ### 📚 Session 7. LLM Posttraining & Inference (Mar/4/2025)
 - 🔑 **Keywords**: Posttraining, SFT, PEFT, RLHF, DPO
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Posttraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-7-Posttraining.pdf), [Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-8-Inference.pdf), [Research Tools](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-9-LLM-Research-Tools.pdf)
-- 💻 **CoLab Notebook Demos**: [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
+- 💻 **CoLab Notebook Demos**: [LLM Finetuning](https://colab.research.google.com/drive/1xNB0U0_qARcNbhO-6tawBBQ-GKsSqPc2?usp=sharing), [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
 - ✍️ **Homework**: [Problem Set 4: Finetuning LLM](https://colab.research.google.com/drive/15kAfanD_W-CTOZnyQBjGHwLTlMfGcPgp?usp=sharing), due at 12:30pm, Mar/18/2025
 - 📝 **No Presentation of Replication Project in This Week**.
 - 📚 **References**:
@@ -251,7 +251,7 @@ The following schedule is tentative and subject to changes.
 ### 📚 Session 8. LLM Inference and as Research Tools (Feb/25/2025)
 - 🔑 **Keywords**: Test-Time Scaling, Knowledge Distillation, Inference, Quantization, LLM Evaluations, LLM Agents
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Posttraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-7-Posttraining.pdf), [Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-8-Inference.pdf)
-- 💻 **CoLab Notebook Demos**: [LLM Finetuning](https://colab.research.google.com/drive/1xNB0U0_qARcNbhO-6tawBBQ-GKsSqPc2?usp=sharing), [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
+- 💻 **CoLab Notebook Demos**: [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
 - ✍️ **Homework**: [Problem Set 4: Finetuning LLM](https://colab.research.google.com/drive/15kAfanD_W-CTOZnyQBjGHwLTlMfGcPgp?usp=sharing), due at 12:30pm, Mar/18/2025
 - 📝 **No Presentation of Replication Project in This Week**.
 - 📚 **References**:
