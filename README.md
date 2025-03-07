@@ -248,7 +248,7 @@ The following schedule is tentative and subject to changes.
     - Andrej Karpathy's Lectures: [Build GPT-2 (124M) from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU) [GitHub Repo for NanoGPT](https://github.com/karpathy/build-nanogpt/tree/master), [Deep Dive into LLM](https://www.youtube.com/watch?v=7xTGNNLPyMI), [How to Use LLM](https://www.youtube.com/watch?v=EWvNQjAaOHw), [Build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
     - Miscellaneous Resources: [Video on DeepSeek R1](https://www.youtube.com/watch?v=tRuN8xYdETs), [Video on DeekSeep MLA](https://www.bilibili.com/video/BV1HqFQezEMt/), [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html), [DeepSeek Open-Infra Repo](https://github.com/deepseek-ai/open-infra-index)
 
-### 📚 Session 8. LLM Inference and as Research Tools (Feb/25/2025)
+### 📚 Session 8. LLM Inference and as Research Tools (Mar/11/2025)
 - 🔑 **Keywords**: Test-Time Scaling, Knowledge Distillation, Inference, Quantization, LLM Evaluations, LLM Agents
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Posttraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-7-Posttraining.pdf), [Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-8-Inference.pdf)
 - 💻 **CoLab Notebook Demos**: [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
