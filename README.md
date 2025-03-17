@@ -253,7 +253,8 @@ The following schedule is tentative and subject to changes.
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Posttraining](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-7-Posttraining.pdf), [Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-8-Inference.pdf)
 - 💻 **CoLab Notebook Demos**: [Quantization](https://colab.research.google.com/drive/1XSeaUmIaDRDMybgNeqz-APmGBq4r8np8?usp=sharing)
 - ✍️ **Homework**: [Problem Set 4: Finetuning LLM](https://colab.research.google.com/drive/15kAfanD_W-CTOZnyQBjGHwLTlMfGcPgp?usp=sharing), due at 12:30pm, Mar/18/2025
-- 📝 **No Presentation of Replication Project in This Week**.
+- 📝 **Presentation of Replication Project**: By Tao Wang and Zhe Liu
+    - Jens Ludwig, Sendhil Mullainathan, Machine Learning as a Tool for Hypothesis Generation, *The Quarterly Journal of Economics*, Volume 139, Issue 2, May 2024, Pages 751–827, [link to the paper](https://doi.org/10.1093/qje/qjad055), [Replication Report, Code, and Slides](https://docs.google.com/spreadsheets/d/1ffRNlSFqki4vomz5UN0OseFNEoEXBY5kptS79wmgWs4/edit?gid=422252848#gid=422252848).
 - 📚 **References**:
     - Ouyang, Long, et al. 2022. Training language models to follow instructions with human feedback. *Advances in Neural Information Processing Systems*, **35**, 27730-27744.
     - Chu, T., Zhai, Y., Yang, J., Tong, S., Xie, S., Schuurmans, D., Le, Q.V., Levine, S. and Ma, Y., 2025. Sft memorizes, rl generalizes: A comparative study of foundation model post-training. *arXiv preprint arXiv:2501.17161*.
