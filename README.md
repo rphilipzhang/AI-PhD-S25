@@ -74,11 +74,11 @@ Subject to modifications. All classes start at 12:30pm and end at 3:15pm.
 |6|2.25|LLM (IV)|LLM Pre-training, DL Computations|
 |7|3.04|LLM (V)|Post-training, Fine-tuning, RLHF, Test-Time Scaling, Inference, Quantization| 
 |8|3.11|LLM (VI)| Agentic AI, AI as Human Simulators, Applications in Business Research| 
-|9|3.18|Causal (I)|Causal Inference Intro, RCT, IPW, AIPW|
-|10|3.25|Causal (II)|Double Machine Learning, Neyman Orthogonality|
-|11|4.01|Causal (III)|ML-Powered Causal Inference, Causal Trees and Forests|
-|12|4.08|Causal (IV)|(Off-)Policy Evaluation, Policy Learning|
-|13|4.15|Causal (V)|LLM x Causal Inference and Course Wrap-up|
+|9|3.18|Causal (I)|Causal Inference Intro, RCT|
+|10|3.25|Causal (II)|IPW, AIPW, Double Machine Learning, Neyman Orthogonality|
+|11|4.01|Causal (III)|Double Machine Learning, Neyman Orthogonality, Interference|
+|12|4.08|Causal (IV)|ML-Powered Causal Inference, Causal Trees and Forests|
+|13|4.15|Causal (V)|Synthetic Control, Matrix Completion, LLM x Causal Inference and Course Wrap-up|
 
 
 ## 📅 Important Dates
