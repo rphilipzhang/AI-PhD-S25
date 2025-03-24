@@ -273,7 +273,7 @@ The following schedule is tentative and subject to changes.
 - 🔑 **Keywords**: Potential Outcomes Model, RCT, Unconfoundedness, IPW, AIPW
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Causal Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-10-Causal-RCT.pdf)
 - 💻 **CoLab Notebook Demos**: [Causal Inference under Unconfoundedness](https://colab.research.google.com/drive/1VD4a7EotCmAzYFAfCE3VJ3vOpCNvQm5P?usp=sharing)
-- ✍️ **Homework**: [Problem Set 5: Bias and Variance with Mis-speficied Linear Regression](https://colab.research.google.com/drive/1VY3n7G4zF0Flgc1aDT9Tz4252QFScFgm?usp=sharing), due at 12:30pm, Apr/2/2025
+- ✍️ **Homework**: [Problem Set 5: Bias and Variance with Mis-speficied Linear Regression](https://colab.research.google.com/drive/1VY3n7G4zF0Flgc1aDT9Tz4252QFScFgm?usp=sharing), due at 12:30pm, Apr/1/2025
 - 📝 **Presentation of Replication Project**: By Keming Li and Qilin Huang
     - Costello, T.H., Pennycook, G. and Rand, D.G., 2024. Durably reducing conspiracy beliefs through dialogues with AI. *Science*, 385(6714), p.eadq1814, [link to the paper](https://www.science.org/doi/10.1126/science.adq1814), [Replication Report, Code, and Slides](https://docs.google.com/spreadsheets/d/1ffRNlSFqki4vomz5UN0OseFNEoEXBY5kptS79wmgWs4/edit?gid=422252848#gid=422252848).
 - 📚 **References**:
