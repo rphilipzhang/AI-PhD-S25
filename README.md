@@ -269,7 +269,7 @@ The following schedule is tentative and subject to changes.
     - Andrej Karpathy's Lectures: [Build GPT-2 (124M) from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU) [GitHub Repo for NanoGPT](https://github.com/karpathy/build-nanogpt/tree/master), [Deep Dive into LLM](https://www.youtube.com/watch?v=7xTGNNLPyMI), [How to Use LLM](https://www.youtube.com/watch?v=EWvNQjAaOHw), [Build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
     - Miscellaneous Resources: [Video on DeepSeek R1](https://www.bilibili.com/video/BV1YGR8YUEEd/), [Video on DeekSeep MLA](https://www.bilibili.com/video/BV1HqFQezEMt/), [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html), [DeepSeek Open-Infra Repo](https://github.com/deepseek-ai/open-infra-index), [Language Agents: Foundations, Prospects, and Risks (EMNLP 2024 Tutorial)](https://language-agent-tutorial.github.io/)
 
-### 📚 Session 8. Causal Inference Fundamentals (Mar/18/2025)
+### 📚 Session 9. Causal Inference Fundamentals (Mar/18/2025)
 - 🔑 **Keywords**: Potential Outcomes Model, RCT, Unconfoundedness, IPW, AIPW
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Causal Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-10-Causal-RCT.pdf)
 - 💻 **CoLab Notebook Demos**: [Causal Inference under Unconfoundedness](https://colab.research.google.com/drive/1VD4a7EotCmAzYFAfCE3VJ3vOpCNvQm5P?usp=sharing)
@@ -284,7 +284,7 @@ The following schedule is tentative and subject to changes.
     - Books, Notes, and Courses: Chapters 1, 2, & 3 of [Causal Inference: A Statistical Learning Approach](https://web.stanford.edu/~swager/causal_inf_book.pdf), Chapters 2 & 5 of [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/), Chapters 2 & 3 of [Duke STA 640: Causal Inference](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html), [Handwritten Note](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Notes/250318.pdf) 
     - Miscellaneous Resources: [Videos of Stanford ECON 293 Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-), [AEA Continuing Education on Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
 
-### 📚 Session 9. IPW, AIPW and DML (Mar/25/2025)
+### 📚 Session 10. IPW, AIPW and DML (Mar/25/2025)
 - 🔑 **Keywords**: IPW, AIPW, root-n consistency, DML
 - 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Causal Inference](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-10-Causal-RCT.pdf), [Double Machine Learning (*Incomplete*)](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-11-DML.pdf)
 - 💻 **CoLab Notebook Demos**: [Causal Inference under Unconfoundedness](https://colab.research.google.com/drive/1VD4a7EotCmAzYFAfCE3VJ3vOpCNvQm5P?usp=sharing), [IPW vs. AIPW](https://colab.research.google.com/drive/1FY9pPX_Rl4Lb1W7-XJNYwzbK5UT62a6u?usp=sharing)
