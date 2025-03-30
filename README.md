@@ -21,7 +21,7 @@
 
 - 🌐 Website: https://github.com/rphilipzhang/AI-PhD-S25
 - ⏰ Time: Tuesday, 12:30pm-3:15pm (Jan 14 - Apr 15, 2025)
-  - *Excluding: Jan 28 (Chinese New Year) and Mar 4 (Final Project Discussion)*
+  - *Excluding: Jan 28 (Chinese New Year)*
 - 📍 Location: Wu Ho Man Yuen Building (WMY) **504**
 
 
