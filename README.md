@@ -333,7 +333,7 @@ The following schedule is tentative and subject to changes.
 
 ### 📚 Session 13. Heterogeneous Treatment Effect (Apr/8/2025)
 - 🔑 **Keywords**: HTE, Causal Tree, Causal Forest, Generalized Random Forest, Evaluation of HTE Estimation
-- 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Heterogeneous Treatment Effect](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-12-HTE.pdf)
+- 📊 **Slides**: [What's New](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0-WhatsNew.pdf), [What's Next](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-0.5-Announcement.pdf), [Heterogeneous Treatment Effect](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-12-HTE.pdf), [Final Words](https://github.com/rphilipzhang/AI-PhD-S25/blob/main/Slides/AI-PhD-S2025-13-Final-Words.pdf)
 - 💻 **CoLab Notebook Demos**: [DML with EconML-CATE](https://colab.research.google.com/drive/1K8kFCgZuW2kaGkz6aknRQkYhLJMAmI_g?usp=sharing), [HTE with Causal Forest](https://colab.research.google.com/drive/1LsdUtlSHLiiIInO_jVav0EaMggFBho2A?usp=sharing)
 - ✍️ **Homework**: [Problem Set 7: Heterogeneous Treatment Effect](https://colab.research.google.com/drive/1TvEPy3OzcxxP2jtX6IStOh-KDLuj032u?usp=sharing), due at 12:30pm, Apr/22/2025
 - 📝 **Presentation of Replication Project**: By Ningfan Lai and Yu Jiang
